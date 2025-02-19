@@ -10,7 +10,7 @@ on:
       - reopened
       - synchronize
 env:
-  TEST_LIST: "dev,2023,main"  
+  TEST_LIST: 'dev,2023,main'
 
 jobs:
   Explore-GitHub-Actions:
